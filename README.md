@@ -1,0 +1,31 @@
+# Desafio da Memória
+
+![Foto do Projeto](https://user-images.githubusercontent.com/66845046/158717946-e8df5f16-0fc3-43e2-8599-68b071aeb401.jpg)
+
+<br>
+
+🎮 Esse é um jogo desenvolvido durante a pandemia de 2020, que visa simular um tradicional jogo de memória.
+
+<br>
+
+🎯 O objetivo é simples! Conseguir achar todos os pares de frutas no menor número de tentativas possível.
+
+<br>
+
+🃏 As cartas são embaralhadas a cada nova tentativa
+
+<br>
+
+🔢 No início do jogo, uma carta é sorteada como Power Up. Caso ela seja achada dentro das 3 primeiras tentativas, todas as demais cartas são reveladas por um breve período!
+
+<br>
+
+📊 O jogo conta com um menu de estatísticas, no qual é possível ver o seu desempenho
+
+<br>
+
+😓 Achando muito difícil? Abra o menu e mude a dificidade! Possível selecionar entre Fácil, Médio e Difícil
+
+<br>
+
+👉 Esperando o quê? Mergulhe logo nessa aventura!
