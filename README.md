@@ -12,6 +12,10 @@
 
 <br>
 
+![Imagem Tentativas](https://user-images.githubusercontent.com/66845046/162595241-70e1ac19-babe-4fab-b7b8-8f55d8671391.png)
+
+<br>
+
 🃏 As cartas são embaralhadas a cada nova tentativa
 
 <br>
