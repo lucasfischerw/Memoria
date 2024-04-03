@@ -28,8 +28,4 @@
 
 <br>
 
-😓 Achando muito difícil? Abra o menu e mude a dificidade! Possível selecionar entre Fácil, Médio e Difícil
-
-<br>
-
-👉 Esperando o quê? Mergulhe logo nessa aventura!
+📋 É possível selecionar entre as dificuldades Fácil, Médio e Difícil no menu do sistema
